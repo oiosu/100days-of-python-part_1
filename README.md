@@ -1,7 +1,7 @@
 # 🧐 PYTHON STUDY 
 
 ### 📂 [SECTION1_ 1DAY_ OT](https://github.com/oiosu/100days-of-python-part_1/blob/main/section1/section1_1day.md) 
-⭐ **가장 중요한 것은 프로그래머로서의 기술에 자신감을 갖는 것**이다. 
+⭐ **가장 중요한 것은 프로그래머로서의 기술에 자신감을 갖는 것이다.**
 
 
 ### 📂[Quiz1](https://github.com/oiosu/100days-of-python-part_1/blob/main/section1/Quize1.md), [Quiz2](https://github.com/oiosu/100days-of-python-part_1/blob/main/section1/Quize2.md) : 실력 테스트,  변수 명명 퀴즈
