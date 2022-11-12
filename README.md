@@ -1,4 +1,4 @@
-ㅋ# 🧐 PYTHON STUDY 
+# 🧐 PYTHON STUDY 
 
 ### 📂 [SECTION1_ 1DAY_ OT](https://github.com/oiosu/100days-of-python-part_1/blob/main/section1/section1_1day.md) 
 ⭐ **가장 중요한 것은 프로그래머로서의 기술에 자신감을 갖는 것이다.**
